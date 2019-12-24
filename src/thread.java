@@ -38,7 +38,7 @@ class thread {
 
     public static void main(String args[]) {
         data d = new data();
-        d.deger = 100;
+        d.deger = 0;
         producer p = new producer(d);
         consumer c = new consumer(d);
         Thread t = new Thread(c);
@@ -48,5 +48,5 @@ class thread {
 }
 
 class data {
-    int deger=0;
+    int deger;
 }
