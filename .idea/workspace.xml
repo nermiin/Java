@@ -44,10 +44,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Thread_Synchronization" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577209885781</updated>
-      <workItem from="1577209890178" duration="5224000" />
+      <workItem from="1577209890178" duration="5462000" />
+      <workItem from="1577221466166" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Files">
       <created>1577219920662</created>
@@ -122,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -132,6 +135,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/Thread_Synchronization" />
+      <path value="$USER_HOME$/Documents/GitHub/Java/Thread_Synchronization" />
     </ignored-roots>
     <MESSAGE value="Adding Files" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding Files" />
